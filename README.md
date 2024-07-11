@@ -2,7 +2,7 @@
 
 Here are some of the things you can find in my repository:
 
-* coding-challenges-load-balancer
+* [ coding-challenges-load-balancer ] 
 
 <!--
 **sourabhninawe/sourabhninawe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
