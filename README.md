@@ -24,7 +24,7 @@ Software Engineer focused on building reliable backend systems, designing robust
 `Cloud & Delivery:` Deployment workflows, automation, and operational readiness  
 `Architecture & Design:` Service decomposition, integration strategy, and maintainable system design  
 `Security & Reliability:` Secure coding, monitoring, and production stability practices  
-`AI Readiness:` Understanding of AI-assisted software capabilities
+`AI Readiness:` Foundational understanding of AI-assisted software capabilities
 
 ## Certifications
 - Industry-recognized certifications across cloud, software engineering, and database domains
@@ -37,19 +37,18 @@ Software Engineer focused on building reliable backend systems, designing robust
 - Applying practical AI concepts to software workflows where relevant
 
 ## GitHub Profile Widgets
-> Replace `YOUR_USERNAME` with your GitHub username.
+> Replace `sourabhninawe` with your GitHub username.
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=transparent" alt="GitHub streak" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sourabhninawe&show_icons=true&theme=transparent" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=sourabhninawe&theme=transparent" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourabhninawe&layout=compact&theme=transparent" alt="Top languages" />
 </p>
 
 ## Current Priorities
 - Building clean, maintainable, and testable software
 - Strengthening architecture, data, and reliability foundations
 - Continuously improving engineering practices and delivery excellence
-- Gen AI
