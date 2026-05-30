@@ -36,18 +36,6 @@ Software Engineer focused on building reliable backend systems, designing robust
 - Improving software quality, reliability, and delivery speed
 - Applying practical AI concepts to software workflows where relevant
 
-## GitHub Profile Widgets
-> Replace `sourabhninawe` with your GitHub username.
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sourabhninawe&show_icons=true&theme=transparent" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=sourabhninawe&theme=transparent" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourabhninawe&layout=compact&theme=transparent" alt="Top languages" />
-</p>
-
 ## Current Priorities
 - Building clean, maintainable, and testable software
 - Strengthening architecture, data, and reliability foundations
